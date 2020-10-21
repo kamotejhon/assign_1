@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Welcom To my Browse</title>
+<title> Welcom To my Browsee</title>
 </head>
 <body>
     <h1> Home Work</h1>
